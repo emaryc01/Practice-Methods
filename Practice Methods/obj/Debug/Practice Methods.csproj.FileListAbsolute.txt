@@ -1,0 +1,12 @@
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\Practice Methods\Practice Methods\bin\Debug\Practice Methods.exe.config
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\Practice Methods\Practice Methods\bin\Debug\Practice Methods.exe
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\Practice Methods\Practice Methods\bin\Debug\Practice Methods.pdb
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\Practice Methods\Practice Methods\obj\Debug\Practice Methods.csprojResolveAssemblyReference.cache
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\Practice Methods\Practice Methods\obj\Debug\Practice Methods.exe
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\Practice Methods\Practice Methods\obj\Debug\Practice Methods.pdb
+C:\Users\Emer\Desktop\Github\Practice Methods\Practice Methods\bin\Debug\Practice Methods.exe.config
+C:\Users\Emer\Desktop\Github\Practice Methods\Practice Methods\obj\Debug\Practice Methods.exe
+C:\Users\Emer\Desktop\Github\Practice Methods\Practice Methods\obj\Debug\Practice Methods.pdb
+C:\Users\Emer\Desktop\Github\Practice Methods\Practice Methods\bin\Debug\Practice Methods.exe
+C:\Users\Emer\Desktop\Github\Practice Methods\Practice Methods\bin\Debug\Practice Methods.pdb
+C:\Users\Emer\Desktop\Github\Practice Methods\Practice Methods\obj\Debug\Practice Methods.csprojResolveAssemblyReference.cache
